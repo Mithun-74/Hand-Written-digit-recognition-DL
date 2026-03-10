@@ -12,7 +12,7 @@ The application is built using **TensorFlow/Keras and Gradio** and deployed on *
 
 Try the application here:
 
-https://huggingface.co/spaces/mithun-74/digit-recognizer
+[https://huggingface.co/spaces/mithun-74/digit-recognizer](https://huggingface.co/spaces/Mithun74/Digit_recognizer)
 
 ---
 
